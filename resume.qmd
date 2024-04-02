@@ -23,11 +23,11 @@ Python, SQL, PowerBI, Tableau
 Process Improvement, Logistics, Procurement
 
 ## Education
-Bachelor of Science – July 2024
+# Bachelor of Science – July 2024
 
-Brigham Young University – Idaho
+_Brigham Young University – Idaho_
 
-Major: 		Supply Chain
+__Major: 		Supply Chain
 
 Minor: 		Analytics
 
@@ -35,21 +35,16 @@ Certificate: 	Data Science
 
 Supply Chain Management Society
 
-Wealth Management Society
+Wealth Management Society__
 
 ## Occupation
-Supply Chain Tutor / Teaching Assistant – January 2023 to Present
-
+# Supply Chain Tutor / Teaching Assistant – January 2023 to Present
 Brigham Young University - Idaho
 
-
-Counselor / Assistant Coordinator – May 2022 to August 2023
-
+# Counselor / Assistant Coordinator – May 2022 to August 2023
 For the Strength of Youth
 
-
-Assistant Store Leader – September 2021 to September 2022
-
+# Assistant Store Leader – September 2021 to September 2022
 Quick Quack Car Wash
 
 <!-- ### Footer
